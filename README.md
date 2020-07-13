@@ -9,7 +9,7 @@ We introduce a new dataset that contains personal lifelog and surrounding enviro
 
 ### 2. Data collection
 To collect data, we build the scenario as follows: Data in TP. Ho Chi Minh was collected according to the following scenario: two volunteers participated in our campaign to control motorcycles with sensors and lifelog cameras, and smartphones  were installed in the emotional tag collection application. Two volunteers drive a motorbike in the opposite direction on the predefined distance, in Table 1, at a speed of 20-30km/h. The campaign is carried out three times a day: morning, afternoon and evening during rush hour, about two hours in the approximately 17 km. We try to diversify the surrounding environment by designing the route that includes parks, traffic density, small roads, and riverside. The campaign was conducted from July 12, 2020 to July 31, 2020.
-|    No.        | Second Header | Feature |
+|    No.        |  Route | Feature |
 | ------------- | ------------- |-----|
 | 1             |Nguyen Tat Thanh - Khanh Hoi bridge - Ton Duc Thang - Nguyen Huu Canh - Nguyen Binh Khiem - Thi Nghe bridge | The main route with Riverside path, parks with many trees.    |
 | 2             | Xo Viet Nghe Tinh - Dien Bien Phu - Dinh Tien Hoang - Vo Thi Sau - Cong Truong Dan Chu Roundabout  |  The main route with heavy traffic, less trees and lots of buildings   |

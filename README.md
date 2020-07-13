@@ -1,12 +1,5 @@
-# Foobar
-
-Foobar is a Python library for dealing with word pluralization.
-
 # MNR-HCM datathon 2020
 We introduce a new dataset that contains personal lifelog and surrounding environment data, collected periodically along predefined routes in Ho-Chi-Minh city, Vietnam. We also introduce self-developed devices as well as system architecture for gathering, storing, accessing, and visualizing data. Moreover, some exciting research topics and applications, especially for understanding correlations between people's health, air pollution, and congestion, resulting from the insights of this data set are discussed.
-
-##
-
 
 ## Data 
 ### 1. How to download dataset?

@@ -36,27 +36,3 @@ Following are the description of data structure and direction organization.
 3. Print, sign, and scan, return the form as an attachment to mnrteam19@gmail.com.
 4. Our team will contact you shortly and give you link can download dataset.
 
-### Working Notes and Overview Paper
-[ICDAR '20](https://www.researchgate.net/publication/340582855_MNR-HCM_Data_A_Personal_Lifelog_and_Surrounding_Environment_Dataset_in_Ho-Chi-Minh_City_Viet_Nam)
-
-### Citing MNR-HCM Data
-If you use MNR-HCM Data in your research or wish to refer to the baseline results published in the ICDAR '20, please use the following BibTeX entry.
-```
-@inproceedings{10.1145/3379174.3392320,
-author = {Nguyen-Tai, Tan-Loc and Nguyen, Dang-Hieu and Nguyen, Minh-Tam and Nguyen, Thanh-Duong and Dang, Thanh-Hai and Dao, Minh-Son},
-title = {MNR-HCM Data: A Personal Lifelog and Surrounding Environment Dataset in Ho-Chi-Minh City, Viet Nam},
-year = {2020},
-isbn = {9781450375092},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3379174.3392320},
-doi = {10.1145/3379174.3392320},
-booktitle = {Proceedings of the 2020 on Intelligent Cross-Data Analysis and Retrieval Workshop},
-pages = {21–26},
-numpages = {6},
-keywords = {sensors, lifelog, PM2.5, AQI, particulate matter, environment},
-location = {Dublin, Ireland},
-series = {ICDAR ’20}
-}
-```
-

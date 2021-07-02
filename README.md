@@ -15,6 +15,9 @@ To collect data, we build the scenario as follows: Data in TP. Ho Chi Minh was c
 
 To get the feedback of volunteers safely and timely, we encourage the volunteers to stop their motorbikes whenever they meet the red traffic light or fall into the traffic congestion areas. That action can increase the correlation between air pollution, congestion, and people’s health hidden in our dataset. 
 
+Data Collection Route in Ho Chi Minh City, Vietnam
+![alt text](https://github.com/mnrteam219/mnr-hcm-datathon/blob/master/Picture1.png)
+
 ### 2. Data Description
 
 Following are the description of data structure and direction organization.
